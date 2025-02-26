@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.767523">
+    <testcase classname="To Check the 1-2 Taste Application Login Functionality" name="Verify user can log in with valid credentials" time="9.767523">
+        <system-out><![CDATA[Given the user is on the login page.........................................passed
+When the user enters a valid email..........................................passed
+And the user enters a valid password........................................passed
+And the user clicks the login button........................................passed
+Then the user should be redirected to the dashboard.........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
